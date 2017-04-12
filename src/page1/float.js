@@ -21,5 +21,6 @@ document.getElementById('line13').innerText = '0.2 + 0.4 = ' + (0.2 + 0.4);
 document.getElementById('line14').innerText = '0.5 + 0.4 = ' + (0.5 + 0.4);
 document.getElementById('line15').innerText = '(0.2 + 0.4) + 0.3 = ' + ((0.2 + 0.4) + 0.3);
 document.getElementById('line16').innerText = '0.2 + (0.4 + 0.3) = ' + (0.2 + (0.4 + 0.3));
+document.getElementById('line17').innerText = '(0.2 + 0.4).toFixed(1) = ' + (0.2 + 0.4).toFixed(1);
 
 
