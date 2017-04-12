@@ -1,4 +1,4 @@
-//type of float
+//all numbers are type of number
 document.getElementById('line1').innerText = 'typeof 10: ' + typeof 10;
 document.getElementById('line2').innerText = 'typeof 15.8: ' + typeof 15.8;
 document.getElementById('line3').innerText = 'typeof -30.2: ' + typeof -30.2;
