@@ -1,4 +1,4 @@
-//primitive type is better than wrapper object
+//avoid using "==" operator for mixed types
 function log(str) {
     window.console.log(str);
 }
